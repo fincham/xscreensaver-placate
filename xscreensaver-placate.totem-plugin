@@ -1,0 +1,9 @@
+[Totem Plugin]
+Loader=python
+Module=xscreensaver-placate
+IAge=1
+Name=Placate XScreenSaver
+Description=Disables XScreenSaver while Totem is playing and in full-screen mode
+Authors=Michael Fincham <michael@finch.am>
+Copyright=Copyright © 2011 Michael Fincham
+Website=http://finch.am/projects/xscreensaver-placate
